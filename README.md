@@ -10,6 +10,9 @@ Propts Utilizados:
     
       REGRAS
       > Explique de maneira simples
+      
       > Utilize pouco texto
+      
       > Sempre traga exemplos de códigos
+      
   - Mostre mais exemplo.
