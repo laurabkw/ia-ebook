@@ -1,6 +1,6 @@
 # ia-ebook
 
-IAs utiziladas: 
+IAs utilizadas: 
   - ChatGPT;
   - Pixlr;
 
