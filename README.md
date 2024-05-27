@@ -15,4 +15,4 @@ Propts Utilizados:
       
       > Sempre traga exemplos de códigos
       
-  - Mostre mais exemplo.
+  - Mostre mais exemplos.
